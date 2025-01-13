@@ -1,1 +1,1 @@
-# Super-Resolution-Gan-
+# Super-Resolution-Gan
